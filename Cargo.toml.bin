@@ -1,0 +1,3 @@
+[[bin]]
+name = "language_learning_game"
+path = "src/main.rs"
